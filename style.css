@@ -1,0 +1,28 @@
+h1{
+	color:purple;
+	font-size:5em;
+	font-weight: 700;
+
+}
+#content{
+	padding-top:50%;
+	text-align:center;
+	text-shadow:2px 4px 9px black;
+
+}
+body{
+	background:url(https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1927&q=80);
+	background-position: center;
+	font-family:'Lato', sans-serif;
+}
+li{
+	list-style: none;
+}
+html{
+	height:100%;
+}
+hr{
+	width:400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.5);
+}
